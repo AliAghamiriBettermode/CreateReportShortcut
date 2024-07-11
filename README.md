@@ -56,7 +56,7 @@ Create a `.env` file in the root directory of the project and fill it with the f
 
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/AliAghamiriBettermode/AutoJoinSubSpaces>
+   git clone <https://github.com/AliAghamiriBettermode/CreateReportShortcut>
     ```
 2. Install the dependencies:
    ```sh
@@ -66,4 +66,4 @@ Create a `.env` file in the root directory of the project and fill it with the f
    ```sh
    npm start
     ```
-4. The project will be running on `http://localhost:5000`.
+4. The project will be running on `http://localhost:5001`.
